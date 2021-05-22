@@ -214,3 +214,14 @@ a{
     Not-Headings 
     font-family: 'Fira Sans', sans-serif;
 */
+
+/*about*/
+.about-p-text{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    padding-top: 24px;
+}
+.des-btn{
+    border-radius: 20px;
+    padding: 10px 50px 10px 50px;
+    transition-duration: 0.4s;
+}
